@@ -1,3 +1,4 @@
 this is git in progress and added status report.
 what is going on with this people amaxing.
 this works with regular expression to ignore
+git is getting fantastic sir.
