@@ -1,1 +1,1 @@
-this is git in progress.
+this is git in progress and added status report.
